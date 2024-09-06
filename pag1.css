@@ -1,0 +1,41 @@
+.txt{
+  text-align: center;
+  margin-top: 50px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial;
+  text-decoration: underline;
+  font-size: 56;
+  font-style:oblique;
+  color:rgb(241, 240, 240);
+}
+
+#pfl{
+
+  width: 220;
+  margin-top: 30;
+  border: 6px solid;
+  border-color: rgb(59, 53, 73);
+  border-radius: 50%;
+}
+
+.titulo{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial;
+  text-align:left ;
+  color: white; 
+  float:inline-start;
+  margin-top:55px ;
+  margin-left: 65; 
+}
+.titulo p{
+  text-align: center;
+
+}
+.snd{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color:aqua;
+  text-align: center;
+  margin-top: 65px;
+}
+
+.snd p{
+  margin-bottom: 75px;
+}
